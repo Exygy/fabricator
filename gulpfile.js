@@ -50,7 +50,7 @@ const config = {
     },
   },
   templates: {
-    watch: 'src/**/*.{html,md,json,yml}',
+    watch: 'src/**/*.{html,md,json,yml,scss,js}',
   },
   dest: 'dist',
 };
